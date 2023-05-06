@@ -17,6 +17,7 @@
         { "open": "{", "close": "}" },
         { "open": "[", "close": "]" },
         { "open": "(", "close": ")" },
+        { "open": "|", "close": "|" },
         { "open": "\"", "close": "\"", "notIn": ["string"] },
         { "open": "/*", "close": " */" }
     ],
